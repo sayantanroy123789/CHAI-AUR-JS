@@ -8,3 +8,4 @@ while(j<=6){
     console.log(j)
     j++;
 }
+console.log("2020")
