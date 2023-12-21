@@ -13,3 +13,8 @@ console.log(undefined==0) //false
 console.log(undefined>0); //false
 console.log(undefined<0) //false
 
+
+const id=Symbol('123')
+const anotherId=Symbol('123')
+console.log(id==anotherId); //false
+console.log(id===anotherId); //false
