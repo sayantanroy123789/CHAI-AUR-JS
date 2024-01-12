@@ -29,3 +29,4 @@ console.log("b",mySub);//b [ 'physics', 'chemistry', 'math', 'biology', 'bengali
 let op2=mySub.splice(1,3);
 console.log(op2);//[ 'chemistry', 'math', 'biology' ]
 console.log("c",mySub);//c [ 'physics', 'bengali', 'english' ]
+
