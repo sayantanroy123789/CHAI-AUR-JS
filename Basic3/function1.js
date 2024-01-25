@@ -41,3 +41,4 @@ function message(user){
 }
 console.log(message());//undefined
 console.log(message('priyanka'));//hi priyanka
+
